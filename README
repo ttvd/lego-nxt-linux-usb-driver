@@ -1,0 +1,12 @@
+Lego NXT USB driver v 1.0.0.1
+
+	
+Copyright (C) 2006 	Mykola Konyk (mykola [at] konyk [point] org)
+	
+GPL License
+
+Based on USB Skeleton driver - 2.0
+Copyright (C) 2001-2004 Greg Kroah-Hartman (greg@kroah.com)
+
+--------------------------------------------------------------
+
